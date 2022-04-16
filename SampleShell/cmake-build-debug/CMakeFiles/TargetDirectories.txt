@@ -1,0 +1,3 @@
+/home/usef/main_19016910/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/usef/main_19016910/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/usef/main_19016910/cmake-build-debug/CMakeFiles/main_19016910.dir
